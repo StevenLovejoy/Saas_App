@@ -30,11 +30,15 @@
   background: linear-gradient(to left, #00d2ff , #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-
 // Top-of-page navbar
 .navbar {
   
   border: none;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
 }
 
 .navbar-default .navbar-brand,
